@@ -189,7 +189,7 @@ public class Main {
                             }
                         }
                         break;
-                    case 5:
+                    case 0:
                         System.out.println("Anda telah keluar dari program");
                         input.close(); // Menutup Scanner
                         return; // Keluar dari Program
