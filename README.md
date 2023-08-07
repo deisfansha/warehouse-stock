@@ -8,3 +8,16 @@ Ini adalah program sederhana untuk mengelola gudang. Program ini memungkinkan pr
 - Mengurangi stok barang yang sudah ada dengan mengurangi unit, dengan validasi untuk mencegah stok negatif.
 - Melihat stok saat ini dari semua barang di dalam gudang.
 - Keluar dari program.
+
+## Memulai
+
+1. Klone repositori ke mesin lokal Anda.
+2. Kompilasi dan jalankan program Java menggunakan kompiler Java atau IDE pilihan Anda.
+3. Ikuti petunjuk di layar untuk berinteraksi dengan menu program.
+
+## Cara Menggunakan
+
+1. Jalankan program dan ikuti petunjuk menu untuk melakukan tindakan yang diinginkan.
+2. Ketika diminta untuk menambahkan barang, masukkan kategori, nama, dan stok awal barang.
+3. Untuk menambah atau mengurangi stok, masukkan nama barang dan kuantitas.
+4. Lihat stok saat ini dari semua barang di dalam gudang.
